@@ -97,6 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias k='kubectl'
+alias c='cursor'
 
 # remove username@hostname in prompt as advised at
 # https://github.com/ohmyzsh/ohmyzsh/issues/5581#issuecomment-256825141
